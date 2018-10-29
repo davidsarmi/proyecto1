@@ -1,0 +1,44 @@
+/*index*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.grande{
+    background-color: blueviolet;
+    margin: 60px 0px 0px 80px;
+    padding: 10px 0 30px 0;
+    height: 1390px;   
+    width:  970px;
+}
+,grande p{
+    background-color: green;
+    margin: 0 30px 20px 40px;
+    height: 600px;
+    width: 900px;
+}
+.grande h3{
+    background-color: red;
+    margin: 0px 10px 30px 60px;
+    height: 400px;
+    width: 900px;
+}
+.grande h2{
+    background-color: blue;
+    margin: 0px 40px 0 30px;
+    height: 300px;
+    width: 900px;
+}
+/*page2*/
+.page2{
+    margin: 60px 0px 0px 80px;
+    background-color: blueviolet;
+    height: 950px;
+    width: 895px;
+    padding: 30px 0 25px 0;
+}
+.page2 h3{
+    background-color: blue;
+    margin: 0 20px 15px 40px;
+    height: 260px;
+    width: 835px;
+} 
