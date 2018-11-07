@@ -2,6 +2,7 @@
 *{
     margin: 0;
     padding: 0;
+    list-style: none;
 }
 .grande{
     background-color: blueviolet;
@@ -10,7 +11,7 @@
     height: 1390px;   
     width:  970px;
 }
-,grande p{
+.grande p{
     background-color: green;
     margin: 0 30px 20px 40px;
     height: 600px;
@@ -36,9 +37,78 @@
     width: 895px;
     padding: 30px 0 25px 0;
 }
-.page2 h3{
+.page2 article{
     background-color: blue;
     margin: 0 20px 15px 40px;
     height: 260px;
     width: 835px;
+    padding: 30px 0 0 0;
 } 
+.page2 div{
+    background-color: red;
+    margin: 0 15px 20px 20px;
+    height: 100px;
+    width: 800;
+}
+.page2 nav{
+    background-color: chartreuse;
+    margin: 15px 30px 20px 30px;
+    height: 350px;
+    width: 835px;
+    padding: 30px 0 0 0;
+}
+.page2 aside{
+    background-color: aliceblue;
+    margin: 0 20px 20px 10px;
+    height: 300px;
+    width: 800px;
+}
+.page2 h1{
+    background-color: gold;
+    margin: 0 15px 25px 25px;
+    height: 250px;
+    width: 835px;
+}
+/*pagina 4*/
+.page4{
+    background-color: blueviolet;
+    margin: 40px 0 0 40px;
+    padding: 20px 0 0 0;
+    height: 1200px;
+    width: 1000px;
+}
+
+.page4 div{
+    background-color: blue;
+    margin: 0 20px 20px 20px;
+    padding: 30px 0 0 0;
+    height: 1160px;
+    width: 960px;
+}
+.page4 article{
+    background-color: yellowgreen;
+    margin: 0 30px 30px 30px;
+    padding: 20px 0 0 0;
+    height: 1100px;
+    width: 900px;
+}
+.page4 li{
+    background-color: red;
+    margin: 0 10px 20px 10px;
+    padding: 10px 0 0 0;
+    height: 520px;
+    width: 880px;
+}
+.page4 ul{
+    background-color: aqua;
+    margin: 0 20px 10px 20px;
+    padding: 20px 0 0 0;
+    height: 500px;
+    width: 840px;
+}
+.page4 p{
+    background-color: black;
+    margin: 0 30px 20px 30px;
+    height: 460px;
+    width: 780px;
+}
