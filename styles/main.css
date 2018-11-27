@@ -69,6 +69,78 @@
     height: 250px;
     width: 835px;
 }
+
+
+
+/*pagina 3*/
+
+
+
+.pagina3{
+    background-color: black;
+    margin: 40px 0px 0px 30px;
+    padding: 10px 0px 0px;
+    width: 980px;
+    height: 830px;
+}
+.pagina3 h1,.pagina3 h2,.pagina3 h3{
+    width: 900px
+}
+.pagina3 h1{
+    background-color: brown;
+    margin: 10px 40px 30px 40px;
+    height: 300px
+}
+.pagina3 h2{
+    background-color: green;
+    margin: 0px 50px 40px 30px;
+    padding: 1px;
+    height: 240px;
+
+}
+.pagina3 h2 p{
+    background-color:grey;
+    margin: 10px 15px 20px 15px;
+    height: 100px;
+    width: 850px;
+     
+}
+.pagina3 h2 div{
+    background-color:darkorange;
+    margin: 0px 15px 10px 15px;
+    height: 100px;
+    width: 850px;
+     
+}
+.pagina3 h3{
+    background-color: blue;
+    margin: 0px 60px 10px 20px;
+    padding: 1px;
+    height: 200px;
+}
+.pagina3 h3 article{
+    background-color: orangered;
+    margin: 30px 10px 30px 30px;
+    padding: 1px;
+    height: 140px;
+    width: 860px;
+}
+.pagina3 h3 article div{
+    background-color:red;
+    margin: 20px 20px 20px 20px;
+    padding: 1px;
+    height: 100px;
+    width: 820px;
+}
+.pagina3 h3 article div p{
+    background-color:yellow;
+    margin: 10px 20px 10px 20px;
+    height: 80px;
+    width: 780px;
+}
+
+
+
 /*pagina 4*/
 .page4{
     background-color: blueviolet;
@@ -103,7 +175,7 @@
     background-color: aqua;
     margin: 0 20px 10px 20px;
     padding: 20px 0 0 0;
-    height: 500px;
+    height: 484px;
     width: 840px;
 }
 .page4 p{
@@ -111,4 +183,51 @@
     margin: 0 30px 20px 30px;
     height: 460px;
     width: 780px;
+}
+
+/*pagina cinco*/
+
+.page4{
+    background-color: #17202A  ;
+    width: 900px;
+    height: 1520px;
+    margin: 70px 0px 0px 60px;
+    padding: 1px;   
+}
+.page4 footer{
+    background-color: #D7BDE2  ;
+    width: 800px;
+    height: 1250px;
+    margin: 20px 60px 40px 40px;
+    padding: 1px;
+}
+.page4 footer nav,.page4 footer div,.page4 footer article{
+    width: 760px;
+    height: 300px;
+}
+.page4 footer nav{
+    background-color: black;
+    margin: 20px 30px 30px 30px;
+}
+.page4 footer div{
+    background-color: #EC7063    ;
+    margin: 0px 20px 15px 40px;
+    width: 750px;
+}
+.page4 footer article{
+    background-color: #2874A6  ;
+    margin: 0px 40px 15px 20px;    
+}
+.page4 footer aside {
+    background-color: #17202A;
+    width: 760px;
+    height: 200px;
+    margin: 0px 45px 20px 15px;
+}
+.page4 main{
+    background-color: #D6EAF8;
+    width: 700px;
+    height: 200px;
+    margin: 0px 100px 60px 100px;
+
 }
